@@ -1,0 +1,7 @@
+name: boundingboxbug
+main: nl.patrickdruart.boundingboxbug.PluginMain
+version: 1.0
+author: MrCrackerplays
+commands:
+   ray:
+      description: makes a raytrace happen and tells the server what entity it hit
